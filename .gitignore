@@ -1,0 +1,5 @@
+confifg.txt
+script.js
+data/
+# file yang tidak dibawa oleh git
+# *.exe
